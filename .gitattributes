@@ -1,0 +1,2 @@
+*.jar linguist-language=Java
+*.bat linguist-language=Batchfile
